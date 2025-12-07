@@ -12,6 +12,8 @@ ChatGPT
 TinyRV-OS is a **tiny co-operative command-line OS** for a single-core
 RISC‑V machine, designed to run on QEMU's `virt` board.
 
+IMPORTANT: THIS IS FOR CSCE-311 AND THE ONLY PURPOSE IS FOR EDUCATION
+
 Features
 --------
 
