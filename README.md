@@ -7,7 +7,7 @@ Matt Carey
 Keith Crase
 Ethan Keisler
 Bryson Sinclair
-ChatGPT
+ChatGPT/Github Copilot
 
 TinyRV-OS is a **tiny co-operative command-line OS** for a single-core
 RISC‑V machine, designed to run on QEMU's `virt` board.
